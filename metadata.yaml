@@ -1,5 +1,8 @@
 _repo: Stop-A-Handy-Monitor-Pocket-Conscience-and-Portable-Guardian-against-the-World-the-Flesh-and-__53443
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53443-h/images/cover.jpg
 creator:
   author:
     agent_name: Urner, Nathan Dane
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47359'
     url: http://www.gutenberg.org/2009/agents/47359
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53443#Stop-A-Handy-Monitor-Pocket-Conscience-and-Portable-Guardian-against-the-World-the-Flesh-and-_
 gutenberg_issued: '2016-11-03'
 gutenberg_type: Text
 identifiers:
